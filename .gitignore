@@ -1,0 +1,11 @@
+.vs/
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+x64/
+todo.md
+MapEditor/
+*.filters
+*.vcxproj
